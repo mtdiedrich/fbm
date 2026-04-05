@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Ice Water",
+    "atk": 1150,
+    "def": 900,
+    "g1": "Npt",
+    "g2": "Mon",
+    "primary_type": "Aqua",
+    "secondary_types": ["Bugrothian", "Female"]
+  },
+  {
+    "name": "Celtic Guardian",
+    "atk": 1400,
+    "def": 1200,
+    "g1": "Sun",
+    "g2": "Urn",
+    "primary_type": "Warrior",
+    "secondary_types": ["Elf"]
+  },
+  {
+    "name": "Dragon Zombie",
+    "atk": 1600,
+    "def": 0,
+    "g1": "Mon",
+    "g2": "Plt",
+    "primary_type": "Zombie",
+    "secondary_types": ["Dragon"]
+  }
+]
