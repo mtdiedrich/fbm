@@ -23,8 +23,7 @@ class CardDB:
                 name=entry["name"],
                 atk=entry["atk"],
                 def_=entry["def"],
-                g1=entry["g1"],
-                g2=entry["g2"],
+                groups=entry.get("groups", []),
                 primary_type=entry["primary_type"],
                 secondary_types=entry.get("secondary_types", []),
             )
